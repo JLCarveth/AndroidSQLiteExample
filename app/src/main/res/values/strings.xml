@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseProject</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_sku">Product SKU</string>
+    <string name="product_cost">Cost</string>
+    <string name="product_add">Add Product</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
